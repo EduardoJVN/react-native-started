@@ -9,7 +9,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint",
-    "prepare": "npx husky",
+    "prepare": "npx husky install",
     "test": "echo test" 
   },
   "prettier": {
